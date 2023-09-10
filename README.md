@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">PromptCity</h1>
 
-## Getting Started
+<p align="center"><img src="https://socialify.git.ci/The-EleetCoder/PromptCity/image?font=Inter&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-First, run the development server:
+<p id="description">PromptCity is an open source ai powering tool for modern world to discover create and share creative prompts</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<h2>🚀 Demo</h2>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[https://prompt-city-nrwpjsv58-the-eleetcoder.vercel.app/](https://prompt-city-nrwpjsv58-the-eleetcoder.vercel.app/)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+  
+  
+<h2>🧐 Features</h2>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Here're some of the project's key features:
 
-## Learn More
+*   Explore prompts from anyone around the globe
+*   Has CRUD functionality
+*   Click on anyone's prompt to explore their profile and other prompts created by them
 
-To learn more about Next.js, take a look at the following resources:
+  
+  
+<h2>💻 Built with</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies used in the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+*   NextJS13
+*   Tailwind
+*   Javascript
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+    
+<h2>💖Like my work?</h2>
+
+
+  
+    Give it a Star if you liked it!
