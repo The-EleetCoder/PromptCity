@@ -1,4 +1,5 @@
 import Prompt from "@models/prompt";
+import User from "@models/user";
 import { connectToDB } from "@utils/database";
 
 export const POST = async (request) => {
@@ -6,6 +7,10 @@ export const POST = async (request) => {
 
   try {
     await connectToDB();
+    const user = User.findById(userId);
+    if (!user){
+      return new Response("No such user exists", {status: 400})
+    }
     const newPrompt = new Prompt({ creator: userId, prompt, tag });
 
     await newPrompt.save();
